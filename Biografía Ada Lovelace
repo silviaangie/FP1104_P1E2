@@ -3,3 +3,12 @@ En 1835, Ada se casó con William King, diez años mayor que ella (29) así que 
 En 1834, Babbage tenía planes para la construcción de un nuevo tipo de máquina de cálculo, una máquina analítica de carácter general. La máquina analítica es el diseño de un computador moderno de uso general que representó un importante paso adelante en la historia de la computación.
 Lady Ada Lovelace murió por las sangrías producidas por los médicos de la época en su absurdo intento de curar de esa manera un cáncer de útero que la consumía el 27 de noviembre de 1852 a la edad de 37 años. Fue enterrada por petición propia junto al padre que nunca conoció en la Iglesia de Santa María Magdalena en Hucknall, Nottingham.
 Lady Ada Lovelace fue otro de los grandes genios que por una causa u otra han muerto de forma prematura privando al mundo de sus capacidades y sabiduría. Ada ha sido recordada a lo largo de la historia y se ha intentado galardonar de alguna manera su legado.
+
+
+ALGORITMO 
+Un algoritmo consiste en una lista ordenada de operaciones que tienen el propósito de buscar la solución a un problema en matemática, informática y disciplinas afines.
+
+Para las ciencias de la matemática y de la computación, un algoritmo es una lista que, dado un estado inicial y una entrada, propone pasos sucesivos para arribar a un estado final obteniendo una solución. Sin embargo, el algoritmo no es excluyente de las ciencias duras o matemáticas. También en la vida cotidiana se emplean este tipo de operatorias casi sin notarlo: por ejemplo, en los instructivos o manuales de usuario que incluyen ejemplos de resolución de problemas técnicos.
+
+DIVIDE Y VENCERÁS 
+En nuestro contexto, Divide y Vencerás es una técnica de diseño de algoritmos que consiste en resolver un problema a partir de la solución de subproblemas del mismo tipo, pero de menor tamaño. Si los subproblemas son todavía relativamente grandes se aplicará de nuevo esta técnica hasta alcanzar subproblemas lo suficientemente pequeños para ser solucionados directamente. Ello naturalmente sugiere el uso de la recursión en las implementaciones de estos algoritmos.
